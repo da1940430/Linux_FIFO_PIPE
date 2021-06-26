@@ -1,0 +1,2 @@
+Use ./server to open the server program, then use ./attack to use denial-of-attack.
+Finally, use ./client to test.

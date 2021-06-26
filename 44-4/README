@@ -1,0 +1,2 @@
+add handler function, and added sigaction() to get SIGINT and SIGTERM,
+if get signal, the handler will remove server FIFO pipe and terminate.

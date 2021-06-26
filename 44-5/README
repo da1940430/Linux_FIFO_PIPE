@@ -1,0 +1,1 @@
+let dummyFd doesn't work, then added open() in "for loop" first "if" line, work normally.
